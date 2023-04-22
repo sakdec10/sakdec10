@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MongoDB, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sakdec10](https://github.com/sakdec10)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/sakdec10)
 
 - 💬 Ask me about **Java, Spring, Python, WebDev, OpenCV**
 
 - 📫 How to reach me **sakshamb@buffalo.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t4XlC-L6WBQwF8UE7YFUC_Him9er3yQ4/view?usp=share_link](https://drive.google.com/file/d/1t4XlC-L6WBQwF8UE7YFUC_Him9er3yQ4/view?usp=share_link)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1t4XlC-L6WBQwF8UE7YFUC_Him9er3yQ4/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
