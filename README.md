@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saksham Bansal</h1>
 <h3 align="center">Experienced and Passionate Software Engineer in USA</h3>
 
-- 🔭 I’m currently working on [OpenCV Gesture and WebApp](https://github.com/sakdec10/OpenCV_Gestures)
+- 🔭 I’m currently working on [Gesture Interface](https://github.com/sakdec10/Gesture_Interface)
 
-- 🌱 I’m currently learning **MongoDB, AWS**
+- 🌱 I’m currently learning **MongoDB, AWS**, OpenCV**
 
 - 👨‍💻 All of my projects are available at [Link](https://github.com/sakdec10)
 
