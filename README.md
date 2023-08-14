@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gesture Interface](https://github.com/sakdec10/Gesture_Interface)
 
-- 🌱 I’m currently learning **MongoDB, AWS**, OpenCV**
+- 🌱 I’m currently learning **MongoDB, AWS, OpenCv**
 
 - 👨‍💻 All of my projects are available at [Link](https://github.com/sakdec10)
 
