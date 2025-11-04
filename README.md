@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Spring, Python, WebDev, OpenCV**
 
-- 📫 How to reach me **sakshamb@buffalo.edu**
+- 📫 How to reach me **sb8255@rit.edu**
 
 - 📄 Know about my experiences [Link](https://drive.google.com/file/d/1t4XlC-L6WBQwF8UE7YFUC_Him9er3yQ4/view?usp=share_link)
 
